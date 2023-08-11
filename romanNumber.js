@@ -13,4 +13,5 @@ function myFunction(object){
 
 
 console.log(myFunction('VI'));
+console.log(myFunction('IIIx'));
 
